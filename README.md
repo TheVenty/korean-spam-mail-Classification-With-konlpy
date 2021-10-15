@@ -2,9 +2,11 @@
 
 한글 자연어 처리를 위한 Konlpy가 필요하다.   
 Konlpy 공식 사이트   
-https://konlpy-ko.readthedocs.io/ko/v0.4.3/#
+> https://konlpy-ko.readthedocs.io/ko/v0.4.3/#
 
 ![다운로드](https://user-images.githubusercontent.com/49277505/137443549-4baefd9b-9954-45e7-b9b3-62746d4a8c16.png)
+## Sample Data
+> https://github.com/jordi-angmond/KoreanOpinionSpamData
 
 -----------------------------------------------
 베이지안 필터(Baysian Filter)
